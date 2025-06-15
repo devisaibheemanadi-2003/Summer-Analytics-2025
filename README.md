@@ -1,1 +1,2 @@
-SA2025_W1 (1).ipynb  --> It's week-1 Assignment 
+SA2025_W1 (1).ipynb  -->  Week-1 Assignment 
+summer-analytics-Hackthon.ipynb  -->  Week-3 Hackathon
